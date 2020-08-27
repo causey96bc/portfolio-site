@@ -7,7 +7,7 @@ function Hero(props) {
     console.log(props.subTitle)
     console.log(props)
     return (
-        <Jumbotron className="bg-transparent jumbotron-fluid p-0">
+        <Jumbotron className="bg-transparent jumbotron-fluid p-0 bg-image">
             <Container fluid={true}>
                 <Row className='justify-content-center py-5'>
                     <Col md={8} sm={12}>
