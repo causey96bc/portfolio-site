@@ -17,8 +17,8 @@ function AboutPage(props) {
                    
                    
                      Because of my skills from previous employment I have been able to transition seamlessly into the programming world.
-                 My work experience has cultivated very efficient problem solving skills
-                 due to the high stress situations i have been placed in from a young age.
+                 My work experiences has cultivated very efficient problem solving skills
+                 due to the high stress situations I have been placed in from a young age.
                  I have also found this easier due to my attention to detail and my hard-working mindset. 
                  I hope to find a good company that will allow me to show my technical know how and my dedication to improving their software. 
                  I also hope to find a close knit environment where I potentially work because I believe that comradery makes solving life’s biggest problems much easier.
