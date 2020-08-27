@@ -1,7 +1,7 @@
 import React from 'react';
 
 import Form from 'react-bootstrap/Form';
-import Button from 'react-bootstrap/Button';
+// import Button from 'react-bootstrap/Button';
 
 import Hero from '../components/Hero';
 import Content from '../components/Content';
